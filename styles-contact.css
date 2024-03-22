@@ -88,6 +88,7 @@ h1 {
 		font-size: 2em;
 		font-weight: 400;
 		font-style: normal;   
+		padding: 2%;
 }
 
 h2 {
@@ -95,6 +96,7 @@ h2 {
 		font-size: 1.5em;
 		font-weight: 400;
 		font-style: normal;  
+		line-height: 2;
 }
 
 p {
