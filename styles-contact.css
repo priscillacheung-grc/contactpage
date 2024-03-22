@@ -60,6 +60,7 @@ html, body {
   width: 100%;
   padding: 1;
   margin: 1;
+line-height: 1;
   background-image: url("images/rocks-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
